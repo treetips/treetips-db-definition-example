@@ -1,0 +1,24 @@
+{
+  "name": "treetips-db-definition-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treetips/treetips-db-definition-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treetips/treetips-db-definition-example/issues"
+  },
+  "homepage": "https://github.com/treetips/treetips-db-definition-example#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
